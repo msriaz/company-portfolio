@@ -1,0 +1,9 @@
+NovaCore AI Solutions website rebrand (October 2026)
+
+Updated branding, logo, favicon set, company identity, hero messaging, about/services copy, email, phone, offices, SEO title and description. Original responsive site layout and other assets are preserved.
+
+Deploy: upload contents of this folder (including index.html, css, js, images) to your hosting public_html root.
+
+Important: The Tools/Portfolio/gallery and testimonials sections contain pre-existing template visuals and text and should be reviewed or replaced with verified company work before publishing. The contact link opens your email application; it is not a hosted contact form.
+
+Template credit for StyleShout retained under original license.

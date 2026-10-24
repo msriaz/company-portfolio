@@ -1,0 +1,22 @@
+NOVACORE AI SOLUTIONS — 2026 WEBSITE REDESIGN
+
+Open index.html in a modern browser or upload this folder's contents to your web host.
+Static HTML/CSS/JavaScript. No server or build command required.
+
+Primary files:
+- index.html
+- css/novacore.css
+- js/novacore.js
+- images/novacore-logo.png
+- favicon icons
+
+Features: responsive mobile navigation, scroll reveal effects, animated hero ecosystem,
+animated ticker, hover interactions, scroll progress, reduced-motion support.
+
+Contact email and phone were transferred from the supplied company letterhead.
+The contact CTA opens the visitor's default email app; there is no backend form.
+Project references and placeholder client logos from the original template were not
+presented as verified NovaCore projects.
+
+NOTE: Google Fonts are loaded from Google's CDN; the fallback system fonts are used offline.
+Original website resources are retained in the archive for reference.
