@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='360' height='120' viewBox='0 0 360 120' role='img' aria-label='Movments'>
+  <defs><linearGradient id='g' x1='0' x2='1'><stop offset='0%' stop-color='#081434'/><stop offset='52%' stop-color='#1252f4'/><stop offset='100%' stop-color='#e31d32'/></linearGradient></defs>
+  <rect x='0.75' y='0.75' width='358.5' height='118.5' rx='18' fill='#ffffff' stroke='#dfe6f5' stroke-width='1.5'/>
+  <rect x='18' y='18' width='84' height='84' rx='20' fill='url(#g)'/>
+  <circle cx='74' cy='30' r='4' fill='#ffffff' opacity='.9'/>
+  <circle cx='86' cy='42' r='2.5' fill='#ffffff' opacity='.8'/>
+  <circle cx='62' cy='44' r='2.5' fill='#ffffff' opacity='.65'/>
+  <text x='60' y='74' text-anchor='middle' font-size='28' font-family='Arial, Helvetica, sans-serif' font-weight='700' fill='#ffffff'>M</text>
+  <text x='122' y='52' font-size='24' font-family='Arial, Helvetica, sans-serif' font-weight='700' fill='#0a1637'>Movments</text>
+  <text x='122' y='79' font-size='13' font-family='Arial, Helvetica, sans-serif' font-weight='600' fill='#5f6b82' letter-spacing='.8'>PHYSIOTHERAPY APP</text>
+</svg>
